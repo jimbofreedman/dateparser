@@ -50,31 +50,38 @@ info = {
         "december"
     ],
     "monday": [
+        "mo",
         "mon",
         "monday"
     ],
     "tuesday": [
+        "tu",
         "tue",
         "tuesday",
         "Tues"
     ],
     "wednesday": [
+        "we",
         "wed",
         "wednesday"
     ],
     "thursday": [
+        "th",
         "thu",
         "thursday"
     ],
     "friday": [
+        "fr",
         "fri",
         "friday"
     ],
     "saturday": [
+        "sa",
         "sat",
         "saturday"
     ],
     "sunday": [
+        "su",
         "sun",
         "sunday"
     ],
